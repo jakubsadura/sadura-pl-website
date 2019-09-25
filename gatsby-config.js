@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Grzegorz Sadura - Doradca Podatkowy - Lublin - 608774411 - Rayskiego 4/12`,
   },
   plugins: [
     {
